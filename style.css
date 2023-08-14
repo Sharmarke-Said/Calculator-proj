@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000910;
+    color: #fdfffc;
+    text-align: center;
+    background-image: url(nightbg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+  }
+  h1 {
+    font-size: 40px;
+  }
+  input {
+    width: 75px;
+    height: 50px;
+    font-size: 45px;
+    border-radius: 10px;
+    border-style: none;
+    margin: 10px;
+    background-color: white;
+    color: black;
+  }
+  .display {
+    width: 370px;
+    height: 70px;
+    background-color: #4c555c;
+  }
+  .plus {
+    background-color: #bc5109;
+  }
+  .minus {
+    background-color: #a23abc;
+  }
+  .multiplication {
+    background-color: #5ca2a3;
+  }
+  .divison {
+    background-color: #1f80c9;
+  }
+  .clear {
+    background-color: #a10a0a;
+  }
+  .btn:hover {
+    background-color: rgb(122, 122, 13);
+    cursor: pointer;
+  }
+  
